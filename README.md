@@ -126,3 +126,6 @@ import { Endless, EndlessConfig, Network } from "@endlesslab/endless-ts-sdk";
 ```
 
 It could be your `tsconfig.json` is not incompatible, make sure your `moduleResolution` is set to `node` instead of `bundler`.
+## Community Contribution
+
+This documentation update was added to improve readability for new developers building on Endless Protocol.
